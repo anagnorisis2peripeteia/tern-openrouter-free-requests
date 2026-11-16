@@ -1,0 +1,8 @@
+schema = 1
+id = "openrouter-usage"
+name = "OpenRouter Usage"
+version = "0.1.0"
+description = "Free-model daily request usage for the active OpenRouter key, as a widget-bar widget."
+icon = "gauge"
+window = "window.luau"
+styles = ["openrouter-usage.css"]

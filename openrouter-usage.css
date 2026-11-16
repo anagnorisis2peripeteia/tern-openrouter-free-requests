@@ -1,0 +1,4 @@
+/* Keep the usage widget's tabular figures and a hair of extra room. */
+#statusline [data-plugin='openrouter-usage'] {
+	font-variant-numeric: tabular-nums;
+}
